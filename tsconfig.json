@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES5",
+        "noImplicitAny": true,
+        "outDir": "built",
+        "rootDir": ".",
+        "sourceMap": true,
+        "jsx": "react",
+        "sourceRoot": "./"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "react-chart",
+  "version": "1.0.0",
+  "description": "Drawing library for React",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "chart",
+    "drawing"
+  ],
+  "author": "Ilya Rezvov",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^0.15.9",
+    "typescript": "^1.7.3"
+  }
+}
