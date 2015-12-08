@@ -40,14 +40,14 @@ export class Canvas extends React.Component<CanvasProps, CanvasState> {
     }
 
     render() {
-    return (
-      <canvas
-        ref="canvas"
-        className={this.props.className}
-        style={this.props.style}
-        width={this.props.width}
-        height={this.props.height}
-      />
-    )
+        return (
+            <canvas
+                ref="canvas"
+                className={this.props.className}
+                style={this.props.style}
+                width={this.props.width}
+                height={this.props.height}
+            />
+        )
     }
 }

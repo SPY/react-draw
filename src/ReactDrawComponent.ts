@@ -1,4 +1,5 @@
 /// <reference path="../typings/react/react-inner.d.ts" />
+/// <reference path="../typings/path2d.d.ts" />
 
 import * as React from 'react'
 import * as ReactInjection from 'react/lib/ReactInjection'
